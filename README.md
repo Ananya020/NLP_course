@@ -9,5 +9,8 @@ Dependency parsing to analyze grammatical structure.
 ## Unit 3
 Word similarity using Word2Vec embeddings.
 
+## Unit 4
+RNN, LSTM, BERT, RoBerta.
+
 ## Project
 Smart Text Analyzer (Streamlit)
